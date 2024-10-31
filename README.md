@@ -1,3 +1,5 @@
+# Artur Strzelecki - Python
+
 # Rekrutacja akai
 
 Witajcie!
